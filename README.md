@@ -1,3 +1,3 @@
 # practice
 Author : Adnan Shaikh
-Practice of Git Hub
+Practice of Git And GitHub
